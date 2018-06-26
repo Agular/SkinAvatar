@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 6770cfbb1fc85a54c8c4abc1967a9dd5
+timeCreated: 1522060359
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Armature
+    100004: Bone
+    100006: lumberJack
+    100008: Head
+    100010: Neck
+    100012: SpineBase
+    100014: SpineMid
+    100016: SpineShoulder
+    100018: Hand_L
+    100020: HandTip_L
+    100022: Shoulder_L
+    100024: Shoulder_L_001
+    100026: Thumb_L
+    100028: Wrist_L
+    100030: Ankle_L
+    100032: Ankle_R
+    100034: Elbow_L
+    100036: Elbow_R
+    100038: Foot_L
+    100040: Foot_R
+    100042: Hand_R
+    100044: HandTip_R
+    100046: Hip_L
+    100048: Hip_R
+    100050: Knee_L
+    100052: Knee_R
+    100054: Shoulder_R
+    100056: Thumb_R
+    100058: Wrist_R
+    100060: Lumberjack
+    100062: Mesh
+    100064: AnkleLeft
+    100066: AnkleRight
+    100068: ElbowLeft
+    100070: ElbowRight
+    100072: FootLeft
+    100074: FootRight
+    100076: HandLeft
+    100078: HandRight
+    100080: HandTipLeft
+    100082: HandTipRight
+    100084: HipLeft
+    100086: HipRight
+    100088: KneeLeft
+    100090: KneeRight
+    100092: ShoulderLeft
+    100094: ShoulderRight
+    100096: ThumbLeft
+    100098: ThumbRight
+    100100: WristLeft
+    100102: WristRight
+    400000: //RootNode
+    400002: Armature
+    400004: Bone
+    400006: lumberJack
+    400008: Head
+    400010: Neck
+    400012: SpineBase
+    400014: SpineMid
+    400016: SpineShoulder
+    400018: Hand_L
+    400020: HandTip_L
+    400022: Shoulder_L
+    400024: Shoulder_L_001
+    400026: Thumb_L
+    400028: Wrist_L
+    400030: Ankle_L
+    400032: Ankle_R
+    400034: Elbow_L
+    400036: Elbow_R
+    400038: Foot_L
+    400040: Foot_R
+    400042: Hand_R
+    400044: HandTip_R
+    400046: Hip_L
+    400048: Hip_R
+    400050: Knee_L
+    400052: Knee_R
+    400054: Shoulder_R
+    400056: Thumb_R
+    400058: Wrist_R
+    400060: Lumberjack
+    400062: Mesh
+    400064: AnkleLeft
+    400066: AnkleRight
+    400068: ElbowLeft
+    400070: ElbowRight
+    400072: FootLeft
+    400074: FootRight
+    400076: HandLeft
+    400078: HandRight
+    400080: HandTipLeft
+    400082: HandTipRight
+    400084: HipLeft
+    400086: HipRight
+    400088: KneeLeft
+    400090: KneeRight
+    400092: ShoulderLeft
+    400094: ShoulderRight
+    400096: ThumbLeft
+    400098: ThumbRight
+    400100: WristLeft
+    400102: WristRight
+    2100000: Material__lumberJack_diffuse_png
+    2300000: //RootNode
+    2300002: lumberJack
+    3300000: //RootNode
+    3300002: lumberJack
+    4300000: lumberJack
+    4300002: Mesh
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: lumberJack
+    13700002: Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material__lumberJack_diffuse_png_001
+    second: {fileID: 2100000, guid: ce0e0830d2cef1749af898ccf1b36a17, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

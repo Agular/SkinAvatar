@@ -1,0 +1,13 @@
+# Blender3D MTL File: Ana_Model.blend
+# Material Count: 1
+newmtl Ana_mat_Ana_dif.png
+Ns 54.901961
+Ka 0.026208 0.028691 0.037531
+Kd 0.800000 0.800000 0.800000
+Ks 1.000000 1.000000 1.000000
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd Ana_dif.png
+
+

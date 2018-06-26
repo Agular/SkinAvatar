@@ -1,0 +1,8 @@
+Projekti käivitamiseks tuleb see sama kaust avada Unity mängumootoris projektina.
+
+Samuti on vaja ka Kinecti V2, mis peab olema ühendatud USB 3.0 porti.
+Arvutis peab olema installitud Kinecti SDK 2.0.
+
+Ilma SDK-ta ja sensorita saab tööd endiselt uurida, kuid ei saa käivitada.
+Klassid paiknevad kaustas Scripts.
+Ülejäänud tööga seonduvad (mudelid, prefabid jne) on kaustas Assets
